@@ -1,0 +1,39 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+24 Hanter Dro en Dro
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="398.7679671457905" cy="10.0" r="2" stroke="black" fill="black"/>
+<circle cx="406.4339493497605" cy="48.0" r="2" stroke="black" fill="black"/>
+<circle cx="421.7659137577002" cy="29.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="429.4318959616701" cy="50.0" r="2" stroke="black" fill="black"/>
+<circle cx="444.74104494638374" cy="28.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="452.40702715035366" cy="39.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="460.0730093543235" cy="28.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="467.7389915582934" cy="15.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="475.4049737622633" cy="34.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="483.0709559662332" cy="44.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="494.569929272188" cy="32.0" r="2" stroke="black" fill="black"/>
+<circle cx="517.5678758840976" cy="28.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="536.7328313940224" cy="53.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="571.252566735113" cy="11.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="586.5845311430527" cy="34.0" r="2" stroke="black" fill="black"/>
+<circle cx="598.0835044490075" cy="36.66666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="601.9164955509924" cy="26.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="628.747433264887" cy="55.66666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="682.3864932694502" cy="31.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="701.5514487793749" cy="28.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="728.3823864932695" cy="40.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="812.7310061601643" cy="46.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="843.3721195528177" cy="38.66666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="920.0319415925167" cy="31.666666666666668" r="2" stroke="black" fill="black"/>
+</svg>

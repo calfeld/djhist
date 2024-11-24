@@ -1,0 +1,23 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+8 Turkish Hora
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="337.4172940908054" cy="14.333333333333334" r="2" stroke="black" fill="black"/>
+<circle cx="371.93702943189595" cy="46.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="536.7328313940224" cy="15.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="759.0463153091489" cy="13.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="782.0670773442847" cy="15.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="835.7289527720739" cy="24.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="866.3700661647274" cy="31.000000000000004" r="2" stroke="black" fill="black"/>
+<circle cx="950.6958704083961" cy="9.666666666666668" r="2" stroke="black" fill="black"/>
+</svg>

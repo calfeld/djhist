@@ -1,0 +1,23 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+8 Sadi Moma
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="310.58635637691077" cy="10.333333333333334" r="2" stroke="black" fill="black"/>
+<circle cx="325.91832078485055" cy="9.0" r="2" stroke="black" fill="black"/>
+<circle cx="406.4339493497605" cy="44.0" r="2" stroke="black" fill="black"/>
+<circle cx="506.0689025781428" cy="11.0" r="2" stroke="black" fill="black"/>
+<circle cx="782.0670773442847" cy="10.0" r="2" stroke="black" fill="black"/>
+<circle cx="950.6958704083961" cy="34.0" r="2" stroke="black" fill="black"/>
+<circle cx="954.528861510381" cy="47.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="977.5496235455169" cy="9.0" r="2" stroke="black" fill="black"/>
+</svg>

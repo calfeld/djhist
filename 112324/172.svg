@@ -1,0 +1,22 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+7 Mindrele
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="417.9329226557153" cy="50.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="421.7659137577002" cy="27.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="467.7389915582934" cy="19.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="586.5845311430527" cy="43.0" r="2" stroke="black" fill="black"/>
+<circle cx="601.9164955509924" cy="50.0" r="2" stroke="black" fill="black"/>
+<circle cx="751.380333105179" cy="19.0" r="2" stroke="black" fill="black"/>
+<circle cx="904.6999771845767" cy="38.66666666666667" r="2" stroke="black" fill="black"/>
+</svg>

@@ -1,0 +1,24 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+9 Elerinka
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="371.93702943189595" cy="48.0" r="2" stroke="black" fill="black"/>
+<circle cx="383.4360027378508" cy="32.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="391.10198494182066" cy="24.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="406.4339493497605" cy="39.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="421.7659137577002" cy="33.0" r="2" stroke="black" fill="black"/>
+<circle cx="460.0730093543235" cy="45.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="506.0689025781428" cy="54.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="774.4010951403149" cy="28.0" r="2" stroke="black" fill="black"/>
+<circle cx="973.7166324435318" cy="46.333333333333336" r="2" stroke="black" fill="black"/>
+</svg>
