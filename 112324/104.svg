@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-11 Konyali
+11 Ach Eleni
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,15 +12,15 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="383.4360027378508" cy="37.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="398.7679671457905" cy="42.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="429.4318959616701" cy="34.0" r="2" stroke="black" fill="black"/>
-<circle cx="452.40702715035366" cy="13.0" r="2" stroke="black" fill="black"/>
-<circle cx="506.0689025781428" cy="27.333333333333332" r="2" stroke="black" fill="black"/>
-<circle cx="552.0647958019622" cy="11.0" r="2" stroke="black" fill="black"/>
-<circle cx="655.5555555555555" cy="28.666666666666668" r="2" stroke="black" fill="black"/>
-<circle cx="670.8875199634953" cy="38.66666666666667" r="2" stroke="black" fill="black"/>
-<circle cx="751.380333105179" cy="46.0" r="2" stroke="black" fill="black"/>
-<circle cx="774.4010951403149" cy="17.0" r="2" stroke="black" fill="black"/>
-<circle cx="881.7020305726671" cy="18.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="843.3721195528177" cy="31.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="858.7040839607574" cy="26.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="889.368012776637" cy="36.0" r="2" stroke="black" fill="black"/>
+<circle cx="904.6999771845767" cy="0.6666666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="912.3659593885467" cy="9.0" r="2" stroke="black" fill="black"/>
+<circle cx="935.3639060004564" cy="38.66666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="950.6958704083961" cy="44.66666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="954.528861510381" cy="15.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="973.7166324435318" cy="15.0" r="2" stroke="black" fill="black"/>
+<circle cx="977.5496235455169" cy="8.0" r="2" stroke="black" fill="black"/>
+<circle cx="835.7289527720739" cy="14.333333333333334" r="2" stroke="blue" fill="blue"/>
 </svg>

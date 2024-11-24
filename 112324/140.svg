@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-9 Svornato
+9 C'est Une Jeune Mariée
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,12 +12,13 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="341.25028519279033" cy="42.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="406.4339493497605" cy="49.33333333333333" r="2" stroke="black" fill="black"/>
-<circle cx="494.569929272188" cy="44.0" r="2" stroke="black" fill="black"/>
-<circle cx="502.23591147615787" cy="48.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="571.252566735113" cy="37.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="601.9164955509924" cy="41.666666666666664" r="2" stroke="black" fill="black"/>
-<circle cx="663.2215377595254" cy="52.0" r="2" stroke="black" fill="black"/>
-<circle cx="866.3700661647274" cy="28.0" r="2" stroke="black" fill="black"/>
+<circle cx="318.2523385808807" cy="39.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="325.91832078485055" cy="24.0" r="2" stroke="black" fill="black"/>
+<circle cx="341.25028519279033" cy="44.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="348.9162673967602" cy="43.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="364.2482318047" cy="37.0" r="2" stroke="black" fill="black"/>
+<circle cx="429.4318959616701" cy="17.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="452.40702715035366" cy="52.0" r="2" stroke="black" fill="black"/>
+<circle cx="536.7328313940224" cy="46.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="828.062970568104" cy="50.666666666666664" r="2" stroke="black" fill="black"/>
 </svg>

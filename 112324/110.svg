@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-10 Tropanka From Dobrudzha
+10 Setnja
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,14 +12,14 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="337.4172940908054" cy="13.0" r="2" stroke="black" fill="black"/>
-<circle cx="356.58224960073005" cy="13.0" r="2" stroke="black" fill="black"/>
-<circle cx="421.7659137577002" cy="24.333333333333332" r="2" stroke="black" fill="black"/>
-<circle cx="452.40702715035366" cy="50.666666666666664" r="2" stroke="black" fill="black"/>
-<circle cx="559.730778005932" cy="19.0" r="2" stroke="black" fill="black"/>
-<circle cx="670.8875199634953" cy="49.0" r="2" stroke="black" fill="black"/>
-<circle cx="678.5535021674652" cy="0.33333333333333337" r="2" stroke="black" fill="black"/>
-<circle cx="728.3823864932695" cy="16.666666666666668" r="2" stroke="black" fill="black"/>
-<circle cx="736.0483686972393" cy="41.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="774.4010951403149" cy="33.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="421.7659137577002" cy="3.333333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="429.4318959616701" cy="2.0" r="2" stroke="black" fill="black"/>
+<circle cx="460.0730093543235" cy="12.0" r="2" stroke="black" fill="black"/>
+<circle cx="483.0709559662332" cy="32.0" r="2" stroke="black" fill="black"/>
+<circle cx="797.3990417522244" cy="8.666666666666666" r="2" stroke="black" fill="black"/>
+<circle cx="858.7040839607574" cy="7.0" r="2" stroke="black" fill="black"/>
+<circle cx="920.0319415925167" cy="14.333333333333334" r="2" stroke="black" fill="black"/>
+<circle cx="383.4360027378508" cy="10.666666666666668" r="2" stroke="blue" fill="blue"/>
+<circle cx="406.4339493497605" cy="19.333333333333336" r="2" stroke="blue" fill="blue"/>
+<circle cx="444.74104494638374" cy="4.666666666666667" r="2" stroke="blue" fill="blue"/>
 </svg>

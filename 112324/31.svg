@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-21 Adjon Az Izsten
+21 Idle Robin
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,18 +12,21 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="452.40702715035366" cy="3.0" r="2" stroke="black" fill="black"/>
-<circle cx="506.0689025781428" cy="8.666666666666666" r="2" stroke="black" fill="black"/>
-<circle cx="517.5678758840976" cy="27.666666666666668" r="2" stroke="black" fill="black"/>
-<circle cx="536.7328313940224" cy="1.6666666666666665" r="2" stroke="black" fill="black"/>
-<circle cx="586.5845311430527" cy="7.666666666666666" r="2" stroke="black" fill="black"/>
-<circle cx="601.9164955509924" cy="0.33333333333333337" r="2" stroke="black" fill="black"/>
-<circle cx="628.747433264887" cy="4.666666666666667" r="2" stroke="black" fill="black"/>
-<circle cx="670.8875199634953" cy="8.666666666666666" r="2" stroke="black" fill="black"/>
-<circle cx="716.8834131873147" cy="1.6666666666666665" r="2" stroke="black" fill="black"/>
-<circle cx="736.0483686972393" cy="0.6666666666666667" r="2" stroke="black" fill="black"/>
-<circle cx="759.0463153091489" cy="19.0" r="2" stroke="black" fill="black"/>
-<circle cx="812.7310061601643" cy="4.0" r="2" stroke="black" fill="black"/>
-<circle cx="851.0381017567876" cy="7.0" r="2" stroke="black" fill="black"/>
-<circle cx="912.3659593885467" cy="0.33333333333333337" r="2" stroke="black" fill="black"/>
+<circle cx="371.93702943189595" cy="34.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="391.10198494182066" cy="3.0" r="2" stroke="black" fill="black"/>
+<circle cx="406.4339493497605" cy="13.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="417.9329226557153" cy="4.0" r="2" stroke="black" fill="black"/>
+<circle cx="429.4318959616701" cy="6.333333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="460.0730093543235" cy="6.333333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="517.5678758840976" cy="8.0" r="2" stroke="black" fill="black"/>
+<circle cx="536.7328313940224" cy="13.666666666666666" r="2" stroke="black" fill="black"/>
+<circle cx="552.0647958019622" cy="31.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="559.730778005932" cy="12.666666666666666" r="2" stroke="black" fill="black"/>
+<circle cx="632.580424366872" cy="1.0" r="2" stroke="black" fill="black"/>
+<circle cx="716.8834131873147" cy="0.6666666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="751.380333105179" cy="5.0" r="2" stroke="black" fill="black"/>
+<circle cx="805.0650239561944" cy="1.3333333333333335" r="2" stroke="black" fill="black"/>
+<circle cx="835.7289527720739" cy="6.333333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="881.7020305726671" cy="14.666666666666666" r="2" stroke="black" fill="black"/>
+<circle cx="939.1968971024412" cy="4.666666666666667" r="2" stroke="black" fill="black"/>
 </svg>

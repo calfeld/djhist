@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-6 Turkish Ramo Ramo
+6 Hora Fetelor
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,10 +12,7 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="494.569929272188" cy="10.333333333333334" r="2" stroke="black" fill="black"/>
-<circle cx="496.2126397444673" cy="35.0" r="2" stroke="black" fill="black"/>
-<circle cx="506.0689025781428" cy="29.0" r="2" stroke="black" fill="black"/>
-<circle cx="517.5678758840976" cy="47.0" r="2" stroke="black" fill="black"/>
-<circle cx="858.7040839607574" cy="23.333333333333332" r="2" stroke="black" fill="black"/>
-<circle cx="973.7166324435318" cy="17.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="494.569929272188" cy="33.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="391.10198494182066" cy="29.333333333333332" r="2" stroke="blue" fill="blue"/>
+<circle cx="421.7659137577002" cy="46.0" r="2" stroke="blue" fill="blue"/>
 </svg>

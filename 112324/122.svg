@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-9 Daichovo
+9 Takanata
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,12 +12,13 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="858.7040839607574" cy="19.0" r="2" stroke="black" fill="black"/>
-<circle cx="950.6958704083961" cy="47.33333333333333" r="2" stroke="black" fill="black"/>
-<circle cx="954.528861510381" cy="38.33333333333333" r="2" stroke="black" fill="black"/>
-<circle cx="977.5496235455169" cy="33.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="429.4318959616701" cy="52.333333333333336" r="2" stroke="blue" fill="blue"/>
-<circle cx="678.5535021674652" cy="50.333333333333336" r="2" stroke="blue" fill="blue"/>
-<circle cx="851.0381017567876" cy="0.33333333333333337" r="2" stroke="blue" fill="blue"/>
-<circle cx="851.0381017567876" cy="4.666666666666667" r="2" stroke="blue" fill="blue"/>
+<circle cx="325.91832078485055" cy="46.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="337.4172940908054" cy="48.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="391.10198494182066" cy="46.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="452.40702715035366" cy="54.0" r="2" stroke="black" fill="black"/>
+<circle cx="483.0709559662332" cy="52.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="552.0647958019622" cy="18.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="797.3990417522244" cy="18.0" r="2" stroke="black" fill="black"/>
+<circle cx="812.7310061601643" cy="46.0" r="2" stroke="black" fill="black"/>
+<circle cx="889.368012776637" cy="45.33333333333333" r="2" stroke="black" fill="black"/>
 </svg>

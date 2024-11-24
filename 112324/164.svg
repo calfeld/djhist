@@ -1,7 +1,7 @@
 <svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
 
 <text x="0" y="30">
-7 More Cico Rece
+7 Myatalo Lenche
 </text>
 <line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
 <line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
@@ -12,11 +12,10 @@
 <line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
 <line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
 <line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
-<circle cx="310.58635637691077" cy="23.666666666666664" r="2" stroke="black" fill="black"/>
-<circle cx="318.2523385808807" cy="22.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="356.58224960073005" cy="39.333333333333336" r="2" stroke="black" fill="black"/>
-<circle cx="475.4049737622633" cy="42.0" r="2" stroke="black" fill="black"/>
-<circle cx="736.0483686972393" cy="48.0" r="2" stroke="black" fill="black"/>
-<circle cx="782.0670773442847" cy="28.666666666666668" r="2" stroke="black" fill="black"/>
-<circle cx="935.3639060004564" cy="34.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="341.25028519279033" cy="45.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="391.10198494182066" cy="38.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="406.4339493497605" cy="37.0" r="2" stroke="black" fill="black"/>
+<circle cx="655.5555555555555" cy="47.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="774.4010951403149" cy="36.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="812.7310061601643" cy="49.33333333333333" r="2" stroke="black" fill="black"/>
 </svg>
