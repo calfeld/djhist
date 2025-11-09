@@ -1,0 +1,67 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+55 Gori More
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='288.4811975173421' cy='22.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='294.6148229280759' cy='2.666666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='337.5684556407448' cy='18.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='346.76889375684556' cy='4.666666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='352.9025191675794' cy='1.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='365.16976998904704' cy='21.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='374.37020810514787' cy='16.0' r='2' stroke='black' fill='black'/>
+<circle cx='420.35414384811975' cy='6.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='435.68820737495435' cy='5.0' r='2' stroke='black' fill='black'/>
+<circle cx='437.00255567725446' cy='38.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='454.0890836071559' cy='8.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='487.824023366192' cy='11.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='518.5104052573932' cy='4.666666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='543.0449069003287' cy='1.3333333333333335' r='2' stroke='black' fill='black'/>
+<circle cx='564.4943410003651' cy='12.0' r='2' stroke='black' fill='black'/>
+<circle cx='576.7615918218328' cy='3.0' r='2' stroke='black' fill='black'/>
+<circle cx='601.2960934647681' cy='1.3333333333333335' r='2' stroke='black' fill='black'/>
+<circle cx='641.1646586345381' cy='15.0' r='2' stroke='black' fill='black'/>
+<circle cx='647.298284045272' cy='6.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='684.118291347207' cy='10.0' r='2' stroke='black' fill='black'/>
+<circle cx='702.5191675794085' cy='14.0' r='2' stroke='black' fill='black'/>
+<circle cx='751.5699160277474' cy='4.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='791.4384811975174' cy='6.0' r='2' stroke='black' fill='black'/>
+<circle cx='822.1248630887185' cy='7.0' r='2' stroke='black' fill='black'/>
+<circle cx='868.1270536692224' cy='17.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='923.311427528295' cy='2.0' r='2' stroke='black' fill='black'/>
+<circle cx='960.1131799926981' cy='18.0' r='2' stroke='black' fill='black'/>
+<circle cx='319.14932457101133' cy='1.6666666666666665' r='2' stroke='blue' fill='blue'/>
+<circle cx='325.28294998174516' cy='15.666666666666668' r='2' stroke='blue' fill='blue'/>
+<circle cx='408.086893026652' cy='4.333333333333333' r='2' stroke='blue' fill='blue'/>
+<circle cx='426.48776925885363' cy='5.333333333333334' r='2' stroke='blue' fill='blue'/>
+<circle cx='463.28952172325666' cy='10.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='585.9620299379335' cy='0.33333333333333337' r='2' stroke='blue' fill='blue'/>
+<circle cx='628.8974078130705' cy='9.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='708.6527929901424' cy='11.666666666666666' r='2' stroke='blue' fill='blue'/>
+<circle cx='733.1690397955458' cy='2.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='757.7035414384812' cy='17.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='776.1044176706827' cy='10.333333333333334' r='2' stroke='blue' fill='blue'/>
+<circle cx='837.4589266155531' cy='14.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='849.7261774370207' cy='9.666666666666668' r='2' stroke='blue' fill='blue'/>
+<circle cx='855.8598028477547' cy='5.333333333333334' r='2' stroke='blue' fill='blue'/>
+<circle cx='929.4450529390289' cy='8.666666666666666' r='2' stroke='blue' fill='blue'/>
+<circle cx='943.0266520627966' cy='10.666666666666668' r='2' stroke='blue' fill='blue'/>
+<circle cx='969.3136181087988' cy='8.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='444.8886454910552' cy='12.333333333333332' r='2' stroke='green' fill='green'/>
+<circle cx='582.8952172325667' cy='13.333333333333332' r='2' stroke='green' fill='green'/>
+<circle cx='613.5633442862359' cy='9.333333333333334' r='2' stroke='green' fill='green'/>
+<circle cx='714.7681635633443' cy='29.333333333333332' r='2' stroke='green' fill='green'/>
+<circle cx='745.4362906170135' cy='33.0' r='2' stroke='green' fill='green'/>
+<circle cx='769.9707922599489' cy='27.0' r='2' stroke='green' fill='green'/>
+<circle cx='803.705732018985' cy='9.333333333333334' r='2' stroke='green' fill='green'/>
+<circle cx='944.7791164658635' cy='22.666666666666664' r='2' stroke='green' fill='green'/>
+</svg>

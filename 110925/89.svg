@@ -1,0 +1,30 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+15 Mechol Hasheket
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='300.7484483388098' cy='6.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='546.1117196056955' cy='15.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='564.4943410003651' cy='35.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='570.6279664110989' cy='11.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='576.7615918218328' cy='56.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='613.5633442862359' cy='6.0' r='2' stroke='black' fill='black'/>
+<circle cx='641.1646586345381' cy='6.0' r='2' stroke='black' fill='black'/>
+<circle cx='647.298284045272' cy='28.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='714.7681635633443' cy='11.0' r='2' stroke='black' fill='black'/>
+<circle cx='733.1690397955458' cy='7.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='769.9707922599489' cy='1.3333333333333335' r='2' stroke='black' fill='black'/>
+<circle cx='776.1044176706827' cy='41.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='868.1270536692224' cy='18.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='883.442862358525' cy='5.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='892.6433004746258' cy='5.333333333333334' r='2' stroke='black' fill='black'/>
+</svg>

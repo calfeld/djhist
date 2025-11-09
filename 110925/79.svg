@@ -1,0 +1,30 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+17 Karagouna
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='309.94888645491056' cy='25.0' r='2' stroke='black' fill='black'/>
+<circle cx='359.03614457831327' cy='5.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='408.086893026652' cy='41.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='414.2205184373859' cy='35.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='420.35414384811975' cy='22.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='601.2960934647681' cy='3.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='622.7637824023366' cy='3.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='708.6527929901424' cy='39.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='803.705732018985' cy='11.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='855.8598028477547' cy='37.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='892.6433004746258' cy='29.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='929.4450529390289' cy='34.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='288.4811975173421' cy='51.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='294.6148229280759' cy='25.333333333333332' r='2' stroke='blue' fill='blue'/>
+<circle cx='788.3716684921504' cy='7.0' r='2' stroke='green' fill='green'/>
+</svg>

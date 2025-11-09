@@ -1,0 +1,25 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+10 Satovcensko
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='325.28294998174516' cy='42.0' r='2' stroke='black' fill='black'/>
+<circle cx='346.76889375684556' cy='33.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='352.9025191675794' cy='11.0' r='2' stroke='black' fill='black'/>
+<circle cx='383.57064622124864' cy='15.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='420.35414384811975' cy='49.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='435.68820737495435' cy='8.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='518.5104052573932' cy='47.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='677.9846659364732' cy='13.0' r='2' stroke='black' fill='black'/>
+<circle cx='788.3716684921504' cy='51.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='917.1778021175612' cy='30.666666666666664' r='2' stroke='black' fill='black'/>
+</svg>

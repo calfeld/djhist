@@ -1,0 +1,24 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+9 Hajde Bukuri
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='309.94888645491056' cy='35.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='435.68820737495435' cy='7.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='677.9846659364732' cy='25.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='757.7035414384812' cy='16.0' r='2' stroke='black' fill='black'/>
+<circle cx='819.0580503833515' cy='21.0' r='2' stroke='black' fill='black'/>
+<circle cx='892.6433004746258' cy='7.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='943.0266520627966' cy='31.000000000000004' r='2' stroke='black' fill='black'/>
+<circle cx='331.416575392479' cy='15.666666666666668' r='2' stroke='blue' fill='blue'/>
+<circle cx='812.9061701350859' cy='15.333333333333332' r='2' stroke='blue' fill='blue'/>
+</svg>

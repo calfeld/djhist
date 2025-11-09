@@ -1,0 +1,28 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+14 Ketri Ketri
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='337.5684556407448' cy='13.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='346.76889375684556' cy='2.3333333333333335' r='2' stroke='black' fill='black'/>
+<circle cx='352.9025191675794' cy='16.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='359.03614457831327' cy='1.0' r='2' stroke='black' fill='black'/>
+<circle cx='521.5772179627602' cy='11.0' r='2' stroke='black' fill='black'/>
+<circle cx='570.6279664110989' cy='40.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='628.8974078130705' cy='1.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='665.7174151150055' cy='19.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='684.118291347207' cy='15.0' r='2' stroke='black' fill='black'/>
+<circle cx='791.4384811975174' cy='8.0' r='2' stroke='black' fill='black'/>
+<circle cx='819.0580503833515' cy='49.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='849.7261774370207' cy='7.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='861.9934282584885' cy='11.0' r='2' stroke='black' fill='black'/>
+</svg>

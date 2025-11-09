@@ -1,0 +1,24 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+9 Vallja E Kacakut
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='437.00255567725446' cy='39.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='497.04271631982476' cy='54.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='521.5772179627602' cy='39.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='585.9620299379335' cy='47.0' r='2' stroke='black' fill='black'/>
+<circle cx='601.2960934647681' cy='41.0' r='2' stroke='black' fill='black'/>
+<circle cx='622.7637824023366' cy='39.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='751.5699160277474' cy='50.0' r='2' stroke='black' fill='black'/>
+<circle cx='769.9707922599489' cy='41.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='849.7261774370207' cy='42.333333333333336' r='2' stroke='black' fill='black'/>
+</svg>

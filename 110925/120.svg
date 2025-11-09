@@ -1,0 +1,27 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+12 Turkish Hora
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='309.94888645491056' cy='14.333333333333334' r='2' stroke='black' fill='black'/>
+<circle cx='337.5684556407448' cy='46.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='469.4231471339905' cy='15.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='647.298284045272' cy='13.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='665.7174151150055' cy='15.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='708.6527929901424' cy='24.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='733.1690397955458' cy='31.000000000000004' r='2' stroke='black' fill='black'/>
+<circle cx='800.6389193136181' cy='9.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='861.9934282584885' cy='18.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='892.6433004746258' cy='24.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='917.1778021175612' cy='25.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='969.3136181087988' cy='39.0' r='2' stroke='black' fill='black'/>
+</svg>

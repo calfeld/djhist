@@ -1,0 +1,29 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+14 Pomaško Širto
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='288.4811975173421' cy='16.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='313.01569916027745' cy='32.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='352.9025191675794' cy='55.0' r='2' stroke='black' fill='black'/>
+<circle cx='383.57064622124864' cy='55.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='395.8196422051844' cy='27.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='435.68820737495435' cy='55.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='463.28952172325666' cy='52.0' r='2' stroke='black' fill='black'/>
+<circle cx='487.824023366192' cy='34.0' r='2' stroke='black' fill='black'/>
+<circle cx='564.4943410003651' cy='55.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='576.7615918218328' cy='51.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='589.0288426433005' cy='31.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='727.0354143848119' cy='53.0' r='2' stroke='black' fill='black'/>
+<circle cx='745.4362906170135' cy='37.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='861.9934282584885' cy='50.0' r='2' stroke='black' fill='black'/>
+</svg>

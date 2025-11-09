@@ -1,0 +1,36 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+21 Sandansko Horo
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='346.76889375684556' cy='44.0' r='2' stroke='black' fill='black'/>
+<circle cx='365.16976998904704' cy='5.0' r='2' stroke='black' fill='black'/>
+<circle cx='374.37020810514787' cy='18.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='383.57064622124864' cy='24.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='426.48776925885363' cy='31.000000000000004' r='2' stroke='black' fill='black'/>
+<circle cx='463.28952172325666' cy='26.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='469.4231471339905' cy='37.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='487.824023366192' cy='46.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='585.9620299379335' cy='23.0' r='2' stroke='black' fill='black'/>
+<circle cx='589.0288426433005' cy='38.0' r='2' stroke='black' fill='black'/>
+<circle cx='613.5633442862359' cy='51.0' r='2' stroke='black' fill='black'/>
+<circle cx='641.1646586345381' cy='17.0' r='2' stroke='black' fill='black'/>
+<circle cx='677.9846659364732' cy='34.0' r='2' stroke='black' fill='black'/>
+<circle cx='745.4362906170135' cy='34.0' r='2' stroke='black' fill='black'/>
+<circle cx='751.5699160277474' cy='43.0' r='2' stroke='black' fill='black'/>
+<circle cx='837.4589266155531' cy='42.0' r='2' stroke='black' fill='black'/>
+<circle cx='849.7261774370207' cy='33.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='868.1270536692224' cy='46.0' r='2' stroke='black' fill='black'/>
+<circle cx='944.7791164658635' cy='29.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='953.9795545819643' cy='29.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='454.0890836071559' cy='33.333333333333336' r='2' stroke='blue' fill='blue'/>
+</svg>

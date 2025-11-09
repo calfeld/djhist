@@ -1,0 +1,31 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+17 Valle Pogonishte
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='294.6148229280759' cy='3.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='401.9532676159182' cy='5.0' r='2' stroke='black' fill='black'/>
+<circle cx='408.086893026652' cy='18.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='420.35414384811975' cy='10.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='435.68820737495435' cy='26.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='441.8218327856882' cy='4.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='463.28952172325666' cy='8.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='518.5104052573932' cy='26.0' r='2' stroke='black' fill='black'/>
+<circle cx='543.0449069003287' cy='27.0' r='2' stroke='black' fill='black'/>
+<circle cx='589.0288426433005' cy='17.0' r='2' stroke='black' fill='black'/>
+<circle cx='622.7637824023366' cy='33.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='665.7174151150055' cy='13.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='763.8371668492151' cy='35.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='837.4589266155531' cy='2.3333333333333335' r='2' stroke='black' fill='black'/>
+<circle cx='861.9934282584885' cy='15.0' r='2' stroke='black' fill='black'/>
+<circle cx='969.3136181087988' cy='24.333333333333332' r='2' stroke='black' fill='black'/>
+</svg>

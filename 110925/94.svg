@@ -1,0 +1,29 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+15 Bufcansko
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='325.28294998174516' cy='9.0' r='2' stroke='black' fill='black'/>
+<circle cx='408.086893026652' cy='5.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='426.48776925885363' cy='53.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='444.8886454910552' cy='25.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='454.0890836071559' cy='19.0' r='2' stroke='black' fill='black'/>
+<circle cx='487.824023366192' cy='49.0' r='2' stroke='black' fill='black'/>
+<circle cx='543.0449069003287' cy='5.333333333333334' r='2' stroke='black' fill='black'/>
+<circle cx='585.9620299379335' cy='11.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='791.4384811975174' cy='12.0' r='2' stroke='black' fill='black'/>
+<circle cx='855.8598028477547' cy='8.0' r='2' stroke='black' fill='black'/>
+<circle cx='944.7791164658635' cy='10.0' r='2' stroke='black' fill='black'/>
+<circle cx='960.1131799926981' cy='54.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='309.94888645491056' cy='42.66666666666667' r='2' stroke='blue' fill='blue'/>
+<circle cx='929.4450529390289' cy='15.666666666666668' r='2' stroke='green' fill='green'/>
+</svg>

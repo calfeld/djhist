@@ -1,0 +1,33 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+21 Misirlou
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='613.5633442862359' cy='7.0' r='2' stroke='black' fill='black'/>
+<circle cx='622.7637824023366' cy='28.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='641.1646586345381' cy='4.0' r='2' stroke='black' fill='black'/>
+<circle cx='659.5837897042716' cy='18.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='690.2519167579409' cy='3.333333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='720.9017889740782' cy='19.0' r='2' stroke='black' fill='black'/>
+<circle cx='751.5699160277474' cy='40.0' r='2' stroke='black' fill='black'/>
+<circle cx='788.3716684921504' cy='4.666666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='819.0580503833515' cy='9.0' r='2' stroke='black' fill='black'/>
+<circle cx='822.1248630887185' cy='6.0' r='2' stroke='black' fill='black'/>
+<circle cx='898.7769258853597' cy='3.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='294.6148229280759' cy='54.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='444.8886454910552' cy='16.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='481.6903979554582' cy='2.666666666666667' r='2' stroke='blue' fill='blue'/>
+<circle cx='585.9620299379335' cy='38.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='601.2960934647681' cy='13.0' r='2' stroke='blue' fill='blue'/>
+<circle cx='943.0266520627966' cy='38.66666666666667' r='2' stroke='blue' fill='blue'/>
+<circle cx='331.416575392479' cy='30.0' r='2' stroke='green' fill='green'/>
+</svg>

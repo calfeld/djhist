@@ -1,0 +1,23 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+8 Pravo
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='395.8196422051844' cy='41.0' r='2' stroke='black' fill='black'/>
+<circle cx='518.5104052573932' cy='39.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='543.0449069003287' cy='44.0' r='2' stroke='black' fill='black'/>
+<circle cx='576.7615918218328' cy='44.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='684.118291347207' cy='45.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='727.0354143848119' cy='34.0' r='2' stroke='black' fill='black'/>
+<circle cx='812.9061701350859' cy='41.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='849.7261774370207' cy='28.666666666666668' r='2' stroke='black' fill='black'/>
+</svg>

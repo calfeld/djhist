@@ -1,0 +1,29 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+17 Galyam Galyam
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='401.9532676159182' cy='1.6666666666666665' r='2' stroke='black' fill='black'/>
+<circle cx='408.086893026652' cy='53.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='414.2205184373859' cy='54.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='463.28952172325666' cy='21.0' r='2' stroke='black' fill='black'/>
+<circle cx='481.6903979554582' cy='7.666666666666666' r='2' stroke='black' fill='black'/>
+<circle cx='497.04271631982476' cy='17.666666666666668' r='2' stroke='black' fill='black'/>
+<circle cx='509.3099671412925' cy='15.0' r='2' stroke='black' fill='black'/>
+<circle cx='628.8974078130705' cy='5.0' r='2' stroke='black' fill='black'/>
+<circle cx='659.5837897042716' cy='2.666666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='702.5191675794085' cy='45.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='745.4362906170135' cy='36.0' r='2' stroke='black' fill='black'/>
+<circle cx='763.8371668492151' cy='18.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='803.705732018985' cy='23.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='960.1131799926981' cy='17.0' r='2' stroke='black' fill='black'/>
+</svg>

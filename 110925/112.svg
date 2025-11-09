@@ -1,0 +1,27 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+12 C'est Une Jeune Mariée
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='294.6148229280759' cy='39.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='300.7484483388098' cy='24.0' r='2' stroke='black' fill='black'/>
+<circle cx='313.01569916027745' cy='44.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='319.14932457101133' cy='43.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='331.416575392479' cy='37.0' r='2' stroke='black' fill='black'/>
+<circle cx='383.57064622124864' cy='17.333333333333332' r='2' stroke='black' fill='black'/>
+<circle cx='401.9532676159182' cy='52.0' r='2' stroke='black' fill='black'/>
+<circle cx='469.4231471339905' cy='46.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='702.5191675794085' cy='50.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='849.7261774370207' cy='34.33333333333333' r='2' stroke='black' fill='black'/>
+<circle cx='883.442862358525' cy='52.666666666666664' r='2' stroke='black' fill='black'/>
+<circle cx='898.7769258853597' cy='18.666666666666668' r='2' stroke='black' fill='black'/>
+</svg>

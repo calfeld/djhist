@@ -1,0 +1,20 @@
+<svg viewBox='0, 0, 1000, 60' width='100%' height='100%' xmlns='http://www.w3.org/2000/svg'>
+<text x='0' y='30'>
+5 Sitna Zborenka
+</text>
+<line x1='200' y1='0.0' x2='1000' y2='0.0' stroke='lightgray'/>
+<line x1='200' y1='20.0' x2='1000' y2='20.0' stroke='lightgray'/>
+<line x1='200' y1='40.0' x2='1000' y2='40.0' stroke='lightgray'/>
+<line x1='200' y1='60.0' x2='1000' y2='60.0' stroke='lightgray'/>
+<line x1='200.0' y1='0' x2='200.0' y2='60' stroke='lightgray'/>
+<line x1='360.0' y1='0' x2='360.0' y2='60' stroke='lightgray'/>
+<line x1='520.0' y1='0' x2='520.0' y2='60' stroke='lightgray'/>
+<line x1='680.0' y1='0' x2='680.0' y2='60' stroke='lightgray'/>
+<line x1='840.0' y1='0' x2='840.0' y2='60' stroke='lightgray'/>
+<line x1='1000.0' y1='0' x2='1000.0' y2='60' stroke='lightgray'/>
+<circle cx='319.14932457101133' cy='38.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='352.9025191675794' cy='41.0' r='2' stroke='black' fill='black'/>
+<circle cx='543.0449069003287' cy='19.333333333333336' r='2' stroke='black' fill='black'/>
+<circle cx='589.0288426433005' cy='40.66666666666667' r='2' stroke='black' fill='black'/>
+<circle cx='822.1248630887185' cy='29.666666666666668' r='2' stroke='black' fill='black'/>
+</svg>
