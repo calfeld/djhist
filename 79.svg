@@ -1,0 +1,28 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+13 Bucimis
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="429.4318959616701" cy="25.333333333333332" r="2" stroke="black" fill="black"/>
+<circle cx="759.0463153091489" cy="54.0" r="2" stroke="black" fill="black"/>
+<circle cx="782.0670773442847" cy="48.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="835.7289527720739" cy="44.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="843.3721195528177" cy="52.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="866.3700661647274" cy="37.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="318.2523385808807" cy="18.333333333333336" r="2" stroke="blue" fill="blue"/>
+<circle cx="348.9162673967602" cy="16.0" r="2" stroke="blue" fill="blue"/>
+<circle cx="889.368012776637" cy="47.33333333333333" r="2" stroke="blue" fill="blue"/>
+<circle cx="897.0339949806068" cy="45.0" r="2" stroke="green" fill="green"/>
+<circle cx="912.3659593885467" cy="37.0" r="2" stroke="green" fill="green"/>
+<circle cx="736.0483686972393" cy="45.666666666666664" r="2" stroke="red" fill="red"/>
+<circle cx="935.3639060004564" cy="42.0" r="2" stroke="orange" fill="orange"/>
+</svg>

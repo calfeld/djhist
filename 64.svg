@@ -1,0 +1,28 @@
+<svg viewBox="0, 0, 1000, 60" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+
+<text x="0" y="30">
+15 Galyam Galyam
+</text>
+<line x1="200" y1="0" x2="1000" y2="0" stroke="lightgray"/>
+<line x1="200" y1="20.0" x2="1000" y2="20.0" stroke="lightgray"/>
+<line x1="200" y1="40.0" x2="1000" y2="40.0" stroke="lightgray"/>
+<line x1="200" y1="60" x2="1000" y2="60" stroke="lightgray"/>
+<line x1="200.0" y1="0" x2="200.0" y2="60" stroke="lightgray"/>
+<line x1="400.0" y1="0" x2="400.0" y2="60" stroke="lightgray"/>
+<line x1="600.0" y1="0" x2="600.0" y2="60" stroke="lightgray"/>
+<line x1="800.0" y1="0" x2="800.0" y2="60" stroke="lightgray"/>
+<line x1="1000.0" y1="0" x2="1000.0" y2="60" stroke="lightgray"/>
+<circle cx="452.40702715035366" cy="1.6666666666666665" r="2" stroke="black" fill="black"/>
+<circle cx="460.0730093543235" cy="53.33333333333333" r="2" stroke="black" fill="black"/>
+<circle cx="467.7389915582934" cy="54.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="529.0668491900525" cy="21.0" r="2" stroke="black" fill="black"/>
+<circle cx="552.0647958019622" cy="7.666666666666666" r="2" stroke="black" fill="black"/>
+<circle cx="571.252566735113" cy="17.666666666666668" r="2" stroke="black" fill="black"/>
+<circle cx="586.5845311430527" cy="15.0" r="2" stroke="black" fill="black"/>
+<circle cx="736.0483686972393" cy="5.0" r="2" stroke="black" fill="black"/>
+<circle cx="774.4010951403149" cy="2.666666666666667" r="2" stroke="black" fill="black"/>
+<circle cx="828.062970568104" cy="45.666666666666664" r="2" stroke="black" fill="black"/>
+<circle cx="881.7020305726671" cy="36.0" r="2" stroke="black" fill="black"/>
+<circle cx="904.6999771845767" cy="18.333333333333336" r="2" stroke="black" fill="black"/>
+<circle cx="954.528861510381" cy="23.666666666666664" r="2" stroke="black" fill="black"/>
+</svg>
